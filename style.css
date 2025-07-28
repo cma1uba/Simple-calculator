@@ -15,7 +15,7 @@ body{
 .calculator{
   background: #3a4452;
   padding: 18px;
-  border-radius: 10px;
+  border-radius: 8px;
 }
 .calculator form input{
   border: 0;
